@@ -1,0 +1,13 @@
+﻿{
+    "id":  "page_0",
+    "mode":  "FIT_WINDOW",
+    "type":  "NORMAL",
+    "layout":  {
+                   "LARGE":  "layout_0"
+               },
+    "isDefault":  true,
+    "isVisible":  true,
+    "label":  "РљР°СЂС‚Р°",
+    "header":  true,
+    "bodyBackgroundColor":  ""
+}

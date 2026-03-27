@@ -1,0 +1,33 @@
+﻿{
+    "content":  {
+                    "0":  {
+                              "type":  "WIDGET",
+                              "widgetId":  "widget_15",
+                              "bbox":  {
+                                           "left":  "0.0%",
+                                           "right":  "0.0%",
+                                           "top":  "0.0%",
+                                           "bottom":  "0.0%",
+                                           "width":  "100.0%",
+                                           "height":  "100.0%"
+                                       },
+                              "setting":  {
+                                              "autoProps":  {
+                                                                "right":  false,
+                                                                "left":  true,
+                                                                "top":  true,
+                                                                "bottom":  false,
+                                                                "width":  "STRETCH",
+                                                                "height":  "STRETCH"
+                                                            },
+                                              "vCenter":  false,
+                                              "hCenter":  false
+                                          }
+                          }
+                },
+    "type":  "FIXED",
+    "label":  "РџРµСЂРІС‹Р№",
+    "order":  [
+                  "0"
+              ]
+}

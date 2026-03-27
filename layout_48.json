@@ -1,0 +1,81 @@
+﻿{
+    "content":  {
+                    "0":  {
+                              "type":  "WIDGET",
+                              "widgetId":  "widget_17",
+                              "bbox":  {
+                                           "left":  "8.00%",
+                                           "right":  "70.7%",
+                                           "top":  "50%",
+                                           "bottom":  "0.00%",
+                                           "width":  "18.80%",
+                                           "height":  "100.0%"
+                                       },
+                              "setting":  {
+                                              "autoProps":  {
+                                                                "left":  false,
+                                                                "right":  true,
+                                                                "top":  false,
+                                                                "bottom":  true,
+                                                                "width":  "AUTO",
+                                                                "height":  "AUTO"
+                                                            },
+                                              "vCenter":  true
+                                          }
+                          },
+                    "1":  {
+                              "type":  "WIDGET",
+                              "widgetId":  "widget_18",
+                              "bbox":  {
+                                           "left":  "0.50%",
+                                           "right":  "84.4%",
+                                           "top":  "50%",
+                                           "bottom":  "2.00%",
+                                           "width":  "15.6%",
+                                           "height":  "80.00%"
+                                       },
+                              "setting":  {
+                                              "autoProps":  {
+                                                                "left":  false,
+                                                                "right":  true,
+                                                                "top":  false,
+                                                                "bottom":  true,
+                                                                "width":  "AUTO",
+                                                                "height":  "CUSTOM"
+                                                            },
+                                              "lockParent":  true,
+                                              "vCenter":  true
+                                          }
+                          },
+                    "2":  {
+                              "type":  "WIDGET",
+                              "widgetId":  "widget_19",
+                              "bbox":  {
+                                           "left":  "84.7%",
+                                           "right":  "0.00%",
+                                           "top":  "50%",
+                                           "bottom":  "0.0%",
+                                           "width":  "10.4%",
+                                           "height":  "100.00%"
+                                       },
+                              "setting":  {
+                                              "autoProps":  {
+                                                                "width":  "AUTO",
+                                                                "height":  "CUSTOM",
+                                                                "right":  false,
+                                                                "left":  true,
+                                                                "top":  false,
+                                                                "bottom":  true
+                                                            },
+                                              "vCenter":  true
+                                          }
+                          }
+                },
+    "type":  "FIXED",
+    "label":  "Default",
+    "order":  [
+                  "0",
+                  "1",
+                  "2"
+              ]
+}
