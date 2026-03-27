@@ -1,0 +1,9 @@
+﻿{
+    "dataSource_2":  {
+                         "id":  "dataSource_2",
+                         "type":  "WEB_MAP",
+                         "sourceLabel":  "Р­РќРђ Р’РѕСЃС‚РѕС‡РЅРѕРµ",
+                         "itemId":  "db3b0be1d7404b6c85f9a79e055a2c30",
+                         "portalUrl":  "https://maps.ekoniva-apk.org/portal"
+                     }
+}
